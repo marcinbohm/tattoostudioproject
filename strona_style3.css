@@ -1,0 +1,28 @@
+#navigation_bar {
+    position: fixed;
+}
+
+#status {
+    color: red;
+    font-size: 15px;
+}
+
+#status1 {
+    color: red;
+    font-size: 15px;
+}
+
+#status3 {
+    color: red;
+    font-size: 15px;
+}
+
+#status4 {
+    color: red;
+    font-size: 15px;
+}
+
+#ifsent {
+    color: orange;
+    font-size: 15px;
+}
